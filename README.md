@@ -3,7 +3,7 @@ Find the schematics and PCB for the Mealy self-balancing robot control board in 
 
 ### Usage
 The board has been designed using Altium designer. 
-To use, download the repository as a zip file and open in altium designer V>19
+To use, download the repository as a zip file and open in Altium Designer (version 23.3.1)
 
 ## Images and screenshots for control board 
 #### Top Orthographic
