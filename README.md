@@ -12,12 +12,6 @@ To use, download the repository as a zip file and open in Altium Designer (versi
 #### Top Orthographic
 ![Top-ortho](./images/top-ortho.png)
 
-#### Left-edge
-![Left-edge](./images/left-edge.png)
-
-#### Back edge
-![Back-edge](./images/back-edge.png)
-
 #### Top 
 ![Top-View](./images/top.png)
 
