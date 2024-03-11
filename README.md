@@ -1,5 +1,8 @@
 ### Mealy PCB
-Find the schematics and PCB for the Mealy self-balancing robot control board in the ```Mealy``` folder. 
+### Introduction 
+PCBs and Schematics for Mealy self-balancing robot: https://github.com/bytecod3/Mealy
+
+Find the schematics and PCBs for robot control board in the ```Mealy``` folder. 
 
 ### Usage
 The board has been designed using Altium designer. 
