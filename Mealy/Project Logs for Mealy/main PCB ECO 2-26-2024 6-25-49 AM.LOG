@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=USB_N Pin= -A6
+Removed Pin From Net: NetName=USB_P Pin= -B7
+Added Pin To Net: NetName=USB_P Pin= -A6
+Added Pin To Net: NetName=USB_N Pin= -B7
+Change Net Name : Old Net Name=Net_1 New Net Name=Net _1
+Change Net Name : Old Net Name=Net_A5 New Net Name=Net _A5
+Change Net Name : Old Net Name=Net_B5 New Net Name=Net _B5
+Added Member To Class: ClassName=main Member=Component   213083-0005

@@ -1,0 +1,53 @@
+Change Designator: Invalid Designator
+Change Net Name : Old Net Name=Net _1 New Net Name=Net_1
+Change Net Name : Old Net Name=Net _A5 New Net Name=Net_A5
+Change Net Name : Old Net Name=Net _B5 New Net Name=Net_B5
+Change Net Name : Old Net Name=USB_DM New Net Name=USB_N
+Change Net Name : Old Net Name=USB_DP New Net Name=USB_P
+Added Differential Pair: Name=USB
+Added Member To Class: ClassName=main Member=Component C1 100nF
+Added Member To Class: ClassName=main Member=Component C2 100nF
+Added Member To Class: ClassName=main Member=Component C3 100nF
+Added Member To Class: ClassName=main Member=Component C4 100nF
+Added Member To Class: ClassName=main Member=Component C5 100nF
+Added Member To Class: ClassName=main Member=Component C6 1uF
+Added Member To Class: ClassName=main Member=Component C7 10uF
+Added Member To Class: ClassName=main Member=Component C8 100nF
+Added Member To Class: ClassName=main Member=Component C9 100nF
+Added Member To Class: ClassName=main Member=Component C10 100nF
+Added Member To Class: ClassName=main Member=Component C11 10pF
+Added Member To Class: ClassName=main Member=Component C12 10pF
+Added Member To Class: ClassName=main Member=Component C13 2200pF
+Added Member To Class: ClassName=main Member=Component C14 0.01uF
+Added Member To Class: ClassName=main Member=Component C15 0.1uF
+Added Member To Class: ClassName=main Member=Component C16 0.1uF
+Added Member To Class: ClassName=main Member=Component C17 10pF
+Added Member To Class: ClassName=main Member=Component C18 10pF
+Added Member To Class: ClassName=main Member=Component D1 RED
+Added Member To Class: ClassName=main Member=Component D2 RED
+Added Member To Class: ClassName=main Member=Component D3 GREEN
+Added Member To Class: ClassName=main Member=Component J1 OLED
+Added Member To Class: ClassName=main Member=Component J2 RGB
+Added Member To Class: ClassName=main Member=Component J3 MOTOR_DRIVER
+Added Member To Class: ClassName=main Member=Component J4 POWER
+Added Member To Class: ClassName=main Member=Component P1 61300411121
+Added Member To Class: ClassName=main Member=Component P2 61300411121
+Added Member To Class: ClassName=main Member=Component P3 61900311021
+Added Member To Class: ClassName=main Member=Component R1 100K
+Added Member To Class: ClassName=main Member=Component R2 R0402
+Added Member To Class: ClassName=main Member=Component R3 R0402
+Added Member To Class: ClassName=main Member=Component R4 1M
+Added Member To Class: ClassName=main Member=Component R5 4.7K
+Added Member To Class: ClassName=main Member=Component R6 4.7K
+Added Member To Class: ClassName=main Member=Component R7 5.1K
+Added Member To Class: ClassName=main Member=Component R8 5.1K
+Added Member To Class: ClassName=main Member=Component R9 4.7K
+Added Member To Class: ClassName=main Member=Component R10 1M
+Added Member To Class: ClassName=main Member=Component SW1 DTSM-3
+Added Member To Class: ClassName=main Member=Component SW2 OS102011MA1QN1
+Add Class Member: Failed to add class member : Component  213083-0005
+Added Member To Class: ClassName=main Member=Component U1 STM32F103C8T6
+Added Member To Class: ClassName=main Member=Component U2 AMS1117-3.3
+Added Member To Class: ClassName=main Member=Component U3 MPU-6050
+Added Member To Class: ClassName=main Member=Component X1 8MHz
+Added Member To Class: ClassName=main Member=Component X2 32.768k
